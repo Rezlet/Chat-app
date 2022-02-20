@@ -22,7 +22,7 @@ const LoginForm = () => {
 
               window.location.reload()
             } catch (error) {
-                setError('Opps, incorrect')
+                setError('Use my account is thachloivt123 pass is 123123')
             }
     }
 
